@@ -21,7 +21,20 @@
       "tributo_obrigatorio": "f31325e573a30a0d3efdc8c3c245d8348eaa5e4858a10e98c0ac933ed9e6ec2a84b3f771eaca75fc7eb2f893cf44ae9a6b3b7c36e29072f1e8e9d08ca2ef9ad4"
     },
     "previous_hash": "912339977d0f3914e252d879e7454deabb145d521b39f3adacc4f952f53f05d5",
-    "nonce": 240066
+    "nonce": 240066,
+    "hash": "0000242bac8acc53f389bbf90749b5683d4ad3b47f7ef965170898bdc8c90e43"
+  },
+  {
+    "index": 2,
+    "timestamp": 1770228661.2251155,
+    "data": {
+      "minerador": "Dev_Secure",
+      "tributo_obrigatorio": "f31325e573a30a0d3efdc8c3c245d8348eaa5e4858a10e98c0ac933ed9e6ec2a84b3f771eaca75fc7eb2f893cf44ae9a6b3b7c36e29072f1e8e9d08ca2ef9ad4",
+      "minerador_pubkey": "47fce2206495ceff7bf86c52ee08762e6b72d8cb7976d6424e3d67f24f858a2f949dda092d6b940b6783390baac779833801c57670d6d5395c08cbc7542723bc",
+      "assinatura": "64b12be0129ab4aad155b418f450861527381ca8e5fe24cdb03a6ebebf419bddb20582face330f37fb1ef5ff20a948085d77112b142511bb1179683ab98932ce"
+    },
+    "previous_hash": "0000242bac8acc53f389bbf90749b5683d4ad3b47f7ef965170898bdc8c90e43",
+    "nonce": 70715,
+    "hash": "00008162827f072fff710423868476e6e427996fdc319d55e2f7b0b465b98e86"
   }
-]
 
