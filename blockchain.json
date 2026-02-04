@@ -1,0 +1,27 @@
+[
+  {
+    "index": 0,
+    "timestamp": 1770217547.3843455,
+    "data": {
+      "criador": "Voce",
+      "mensagem": "A inova\u00e7\u00e3o nasce da restri\u00e7\u00e3o.",
+      "supply_inicial": 1000000,
+      "regras": "Prova de Publica\u00e7\u00e3o"
+    },
+    "previous_hash": "0",
+    "hash": "912339977d0f3914e252d879e7454deabb145d521b39f3adacc4f952f53f05d5",
+    "nonce": 0
+  },
+  {
+    "index": 1,
+    "timestamp": 1770219307.377295,
+    "data": {
+      "minerador": "Usuario_Android",
+      "status": "Mineracao_Validada",
+      "tributo_obrigatorio": "f31325e573a30a0d3efdc8c3c245d8348eaa5e4858a10e98c0ac933ed9e6ec2a84b3f771eaca75fc7eb2f893cf44ae9a6b3b7c36e29072f1e8e9d08ca2ef9ad4"
+    },
+    "previous_hash": "912339977d0f3914e252d879e7454deabb145d521b39f3adacc4f952f53f05d5",
+    "nonce": 240066
+  }
+]
+
